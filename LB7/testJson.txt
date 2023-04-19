@@ -1,0 +1,1 @@
+[{"id":1,"surname":"fghfgh","name":"dfgbh","fatherName":"fgbhrfhrf","address":"dfhbfrgh","phone":"345465","numberMedCart":34,"diagnosis":"dfbfgnhfg"},{"id":2,"surname":"dfbgdfb","name":"dfbgd","fatherName":"dfbgdb","address":"dfgbdgh","phone":"3455353","numberMedCart":34,"diagnosis":"dfgdfg"}]

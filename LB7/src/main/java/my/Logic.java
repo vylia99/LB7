@@ -12,6 +12,9 @@ public class Logic {
     public Logic() {
     }
 
+
+
+
     public List <Patient> readFromFile(String file){
         List <Patient> patients = new ArrayList<>(100);
         String str="";

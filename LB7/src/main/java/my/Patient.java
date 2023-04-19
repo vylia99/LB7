@@ -1,6 +1,8 @@
 package my;
 
-public class Patient{
+import java.io.Serializable;
+
+public class  Patient implements Serializable {
     private int id;
     private String surname;
     private String name;
